@@ -14,7 +14,7 @@ fetch('https://dummyjson.com/products')
             <td>${product.discountPercentage}</td>
             <td>${product.rating}</td>
             <td>${product.stock}</td>
-            <td>${product.brand}</td>
+            <td>${10}</td>
             <td>${product.category}</td>
             <td><img src="${product.thumbnail}" alt="Thumbnail" width="50"></td>
           `;
